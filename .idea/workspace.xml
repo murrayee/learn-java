@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c9bc32b-21b5-40d9-a156-b76d61f498a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/JAVAEE/src/demo05/泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAEE/src/demo05/泛型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/BatchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/BatchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/PoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/PoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/QueryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/QueryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/TransactionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/TransactionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/UpdateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/target/classes/JDBCTest/UpdateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/target/classes/META-INF/JDBC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/ForwardServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/ForwardServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/IndexServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/IndexServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/LanguageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/LanguageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/RedirectServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/RedirectServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/SignInServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/SignInServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/SignOutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/target/classes/org/example/sevlet/SignOutServlet.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cn0ztxrhnTGYJxY9bMIN4dF1uW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c9bc32b-21b5-40d9-a156-b76d61f498a2" name="Default Changelist" comment="" />
+      <created>1591149315243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591149315243</updated>
+      <workItem from="1591149316640" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
